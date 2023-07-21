@@ -3,7 +3,7 @@ Shopping Cart to add items with usind the react toolkit and react-redux.
 
 Implementation of async and side effects in the Redux with the help of the action creator.
 
-Along with that fetching the api from the firebase and do changes in the api.
+Along with that fetching the api from the firebase and do changes in the API.
 
 
 
